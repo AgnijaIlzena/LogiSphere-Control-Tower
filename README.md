@@ -20,6 +20,3 @@ Modèle : [`data/drawio-data model.png`](data/drawio-data%20model.png)
 
 [Accueil](maquette%20proj%20ynov%20archi/acceuil.png) · [Expéditions](maquette%20proj%20ynov%20archi/expedition.png) · [Expédition unitaire](maquette%20proj%20ynov%20archi/expedition_unitaire.png) · [Véhicules](maquette%20proj%20ynov%20archi/vehicule.png) · [Chargement](maquette%20proj%20ynov%20archi/loading.png) · [404](maquette%20proj%20ynov%20archi/error%20404.png)
 
-## Dépôt
-
-`LogiSphere_Control_Tower_FR.pdf` (brief) · `data/` (modèle de données) · `logo/` · `maquette proj ynov archi/` (maquettes) · `Trello.png` (sprints)
