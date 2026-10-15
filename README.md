@@ -4,7 +4,7 @@
 
 # LogiSphere Control Tower
 
-Projet M2 Data Engineer (YNOV) : la Control Tower temps réel d'une flotte de **4 000 véhicules** qui assure **120 000 expéditions par jour**. Elle doit gérer un flux IoT instable (retards, doublons, trous), tenir les pics et continuer à fonctionner pendant une panne.
+Projet M1 Data Engineer (YNOV) : la Control Tower temps réel d'une flotte de **4 000 véhicules** qui assure **120 000 expéditions par jour**. Elle doit gérer un flux IoT instable (retards, doublons, trous), tenir les pics et continuer à fonctionner pendant une panne.
 
 **SLO :** alerte température < 10 s · position visible < 30 s · RPO télémétrie 2 min · RPO expédition 0 · RTO 5 min
 
